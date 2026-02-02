@@ -3,7 +3,7 @@ import React from "react";
 
 const Section3 = () => {
   return (
-    <div className="w-[1905px] h-[1017px] py-[126px]">
+    <div className="w-full h-[1017px] py-[126px]">
       <div className="px-[71px]">
         <div className="pb-[50px] text-center">
           <p className="text-[62px] font-medium">My Specialties</p>

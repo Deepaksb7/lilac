@@ -18,10 +18,17 @@ export default function Home() {
       <Section1 />
       <Section2 />
       <Section3 />
-      {/* <Section4 />
+      <div className="pb-[126px] bg-[#e5e0da]">
+      <Section4 />
+      </div>
+      <div className="pb-[126px] bg-[#e5e0da]">
       <Section5 />
+      </div>
+      <div className="py-[126px] ">
       <Section6 />
-      <Section7 />
+      </div>
+
+      {/* <Section7 />
       <Section8 />
       <Section9 />
       <Section10 /> */}
